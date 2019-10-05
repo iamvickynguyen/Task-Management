@@ -1,4 +1,4 @@
-# Task-Manager
+# Task-Management
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/44889544/66252097-26e9ef80-e70c-11e9-973f-5dc3880972e9.jpg" height="30%" width="30%"/> 
